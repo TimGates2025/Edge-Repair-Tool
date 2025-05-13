@@ -1,0 +1,13 @@
+
+---
+
+## 📝 Sample `CHANGELOG.md`
+
+```markdown
+# Changelog
+
+## [1.0.0] - 2025-05-13
+### Added
+- PowerShell repair routine for Microsoft Edge
+- Silent install fallback with download
+- Logging to desktop
